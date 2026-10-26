@@ -1,0 +1,12 @@
+node_modules
+dist
+coverage
+package-lock.json
+src/api/generated
+artifacts
+.npm-cache
+.agents
+.codex
+.impeccable
+playwright-report
+test-results
